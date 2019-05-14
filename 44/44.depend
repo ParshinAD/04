@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557841905 source:c:\users\u211-18\desktop\lab-04\cs-lab04\cs_lab_04\44\main.cpp
+	<iostream>
+	<cassert>
+
